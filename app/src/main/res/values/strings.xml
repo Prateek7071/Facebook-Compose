@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Facebook Compose</string>
+    <string name="title_activity_home_screen">HomeScreen</string>
+    <string name="search">Search</string>
+    <string name="chat">Chat</string>
+    <string name="home">Home</string>
+    <string name="reels">reels</string>
+    <string name="marketplace">marketplace\n</string>
+    <string name="newspaper">newspaper</string>
+    <string name="notification">notification</string>
+    <string name="menu">menu</string>
+    <string name="what_s_on_your_mind">What\'s on your mind?</string>
+    <string name="live">Live</string>
+    <string name="photoalbum">PhotoAlbum</string>
+    <string name="discuss">Discuss</string>
+    <string name="photo">Photo</string>
+</resources>
